@@ -1,1 +1,1 @@
-{"name": "config1"}
+{"tool": {"name": "config1"}, "config": {"key1": "value1"}}
